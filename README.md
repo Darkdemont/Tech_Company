@@ -1,4 +1,4 @@
-ech Company HR Management System
+Tech Company HR Management System
 Overview
 This repository contains the source code and documentation for the HR management system developed for "The Tech Company." The system is built using Java (NetBeans) and MySQL (XAMPP) to automate the management of employee details, departments, and designations.
 
